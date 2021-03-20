@@ -13065,7 +13065,8 @@ let data = {
         { name: `Mitra Glare`, jpName: `ミトラ・グレア` },
         { name: `Varuna Glare`, jpName: `ヴァルナ・グレア` },
         { name: `Fabula Soul`, jpName: `ファーブラ・ソール` },
-        { name: `Historia Soul`, jpName: `イストリア・ソール` }
+        { name: `Historia Soul`, jpName: `イストリア・ソール` },
+        { name: "Ether Factor", jpName: "エーテル・ファクター"}
     ]
 }
 
