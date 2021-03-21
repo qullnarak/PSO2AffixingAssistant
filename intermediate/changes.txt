@@ -1,24 +1,4 @@
 {
-  "extendAbility": {
-    "outdatedInAst": [
-      {
-        "base": [
-          "XL01",
-          "TK0*"
-        ],
-        "ref": "$$",
-        "success": 100
-      },
-      {
-        "base": [
-          "XL01",
-          "TK1*"
-        ],
-        "ref": "$$",
-        "success": 10
-      }
-    ]
-  },
   "ability": {
     "outdatedInSim": [
       {
@@ -3236,12 +3216,6 @@
         ],
         "effect": "Placeholder - S8",
         "noEx": true
-      },
-      {
-        "code": "XL01",
-        "gid": "GB",
-        "name": "Reverie Receptor",
-        "effect": "Boosts Reverie-type ability transfer rates.<br>ALL(+10)"
       }
     ]
   },

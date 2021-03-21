@@ -6708,6 +6708,14 @@ const lang = Object.freeze({
         effect_en: "Greatly increases affix rate of Exceed-type ability.<br>ALL(+10)",
         effect_jp: "イクシード系特殊能力の継承成功率を大幅に上昇.<br>ALL(+10)",
 		effect_glen: "Greatly increases affix rate of Exceed-type ability.<br>ALL(+10)"
+    },  
+    "XL01": {
+        name_en: "Reverie Receptor",
+        name_jp: 'レヴリーレセプター',
+        name_glen: "Reverie Receptor",
+        effect_en: 'Boosts Reverie-type ability transfer rates.<br>ALL(+10)',
+        effect_jp: "レヴリー系特殊能力の合成成功率を大幅に上昇。<br>ALL(+10)",
+        effect_glen: 'Boosts Reverie-type ability transfer rates.<br>ALL(+10)',
     },
     "XH01": {
         name_en: "Catalyst Receptor",

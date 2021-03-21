@@ -3101,6 +3101,22 @@ let data = {
             ],
             ref: "TJ01",
             success: 10
+        },      
+        {
+            base: [
+              "XL01",
+              "TK0*"
+            ],
+            ref: "$$",
+            success: 100
+        },
+        {
+            base: [
+              "XL01",
+              "TK1*"
+            ],
+            ref: "$$",
+            success: 10
         }
     ],
 	    // Overall success rate multiplier per slot count (from 1 to maximum)
@@ -12381,6 +12397,13 @@ let data = {
             effect: "Boosts Factor-type ability transfer rates.<br>ALL(+10)"
         },
         {
+            ref: 685,
+            code: "XL01",
+            gid: "GB",
+            name: "Reverie Receptor",
+            effect: "Boosts Reverie-type ability transfer rates.<br>ALL(+10)"
+        },
+        {
             ref: 458,
             code: "XG01",
             gid: "GB",
@@ -13058,6 +13081,7 @@ let data = {
         { name: `Lesser Power IV`, jpName: `レッサー・パワーⅣ` },
         { name: `Lesser Shoot IV`, jpName: `レッサー・シュートⅣ` },
         { name: `Lesser Technique IV`, jpName: `レッサー・テクニックⅣ` },
+        { name: `Lesser Stamina IV`, jpName: `レッサー・スタミナⅣ` },
         { name: `Lesser Spirita IV`, jpName: `レッサー・スピリタⅣ` },
         { name: `Omega Reverie`, jpName: `オメガ・レヴリー` },
         { name: `Ange Glare`, jpName: `アンジュール・グレア` },
